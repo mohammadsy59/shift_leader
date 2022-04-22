@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474642978906",
+    "project_id": "shift-leader-8650a",
+    "storage_bucket": "shift-leader-8650a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474642978906:android:e5918624a01fc5cf5fa063",
+        "android_client_info": {
+          "package_name": "com.example.shift_leader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474642978906-dgckh0cm9ihbin7rafobi4g7osp8800r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdIkRKZ3mruD82cukPMp-5tAWJecvW6mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474642978906-dgckh0cm9ihbin7rafobi4g7osp8800r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
